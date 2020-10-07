@@ -1,4 +1,5 @@
 
-public class S2 {
+public class S2 
+{
 
 }
